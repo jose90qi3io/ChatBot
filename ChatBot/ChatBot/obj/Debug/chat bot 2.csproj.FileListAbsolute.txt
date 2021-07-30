@@ -1,0 +1,7 @@
+C:\Users\sagra\OneDrive\Escritorio\chat bot 2\bin\Debug\chat bot 2.exe.config
+C:\Users\sagra\OneDrive\Escritorio\chat bot 2\bin\Debug\chat bot 2.exe
+C:\Users\sagra\OneDrive\Escritorio\chat bot 2\bin\Debug\chat bot 2.pdb
+C:\Users\sagra\OneDrive\Escritorio\chat bot 2\obj\Debug\chat bot 2.csproj.AssemblyReference.cache
+C:\Users\sagra\OneDrive\Escritorio\chat bot 2\obj\Debug\chat bot 2.csproj.CoreCompileInputs.cache
+C:\Users\sagra\OneDrive\Escritorio\chat bot 2\obj\Debug\chat bot 2.exe
+C:\Users\sagra\OneDrive\Escritorio\chat bot 2\obj\Debug\chat bot 2.pdb
